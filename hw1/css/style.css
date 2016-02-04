@@ -1,0 +1,61 @@
+/*div style*/
+.Dblack{
+	background-color: black;
+}
+.Dbackdrop{
+	background-color: whitesmoke;
+	margin-bottom: 10px;
+	border-bottom: 1px solid black;
+	border-radius:0 0 3px 3px;
+	border-top: 1px solid whitesmoke;
+}
+.Dapron{
+	background-color: white;
+	margin: 1px 30% 30px 30%;
+	border: 1px white ridge;
+}
+.Dmain{
+	margin: 10% 10% 10% 10%;
+}
+.Dheader{
+	border-bottom: 1px solid black;
+}
+.Dabout{
+	border-bottom: 1px solid black;
+	
+}
+.Dcontacts{
+	border-bottom: 1px solid black;
+	
+}
+.Dlifestyle{
+	
+}
+
+/*par style*/
+p{
+	font-size:1vw;
+	margin-left:20px;
+}
+
+/*headers style*/
+h1{
+	font-size:2.5vw;
+	text-align: center;
+}
+h4{
+	font-size:1vw;
+}
+
+/*pict style*/
+img{
+	width:40%;
+	margin-left:30%;
+	margin-right:30%;
+}
+
+/*list style*/
+ul{
+	font-size:1vw;
+	margin-left:-20px;
+}
