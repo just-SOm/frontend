@@ -1,12 +1,16 @@
+/*body style*/
+body{
+	margin:0;
+}
+
 /*div style*/
 .Dblack{
 	background-color: black;
 }
 .Dbackdrop{
 	background-color: whitesmoke;
-	margin-bottom: 10px;
-	border-bottom: 1px solid black;
-	border-radius:0 0 3px 3px;
+	border-bottom: 4px solid black;
+	border-radius:0 0 5px 5px;
 	border-top: 1px solid whitesmoke;
 }
 .Dapron{
@@ -17,18 +21,11 @@
 .Dmain{
 	margin: 10% 10% 10% 10%;
 }
-.Dheader{
-	border-bottom: 1px solid black;
-}
-.Dabout{
+article{
 	border-bottom: 1px solid black;
 	
 }
-.Dcontacts{
-	border-bottom: 1px solid black;
-	
-}
-.Dlifestyle{
+footer{
 	
 }
 
@@ -36,7 +33,6 @@
 p{
 	font-size:1vw;
 	margin-left:20px;
-	margin-top:-10px;
 }
 
 /*headers style*/
